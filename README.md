@@ -2,7 +2,7 @@
 
 # Feilin Guo
 
-**Email:** feilin_96@outlook.com [feilin_96@outlook.com]
+**Email:** [feilin_96@outlook.com](mailto:feilin_96@outlook.com)
 
 ---
 
