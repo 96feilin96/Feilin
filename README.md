@@ -1,84 +1,63 @@
-# My Portfolio
-
-# Feilin Guo
-
-**Email:** [feilin_96@outlook.com](mailto:feilin_96@outlook.com)
+**Feilin Guo**  
+[LinkedIn](https://www.linkedin.com/in/feilin-guo-629340288/) | feilin96@outlook.com | (217) 308-8435
 
 ---
 
-## Education
+## EDUCATION
+**University of Illinois Urbana-Champaign** – Champaign, IL  
+*Master of Science in Business Analytics*  
+Aug. 2024 – June 2025 (expected)  
+**Relevant Courses**: Big Data in Finance, Data Storytelling, Applied Financial Econometrics, Enterprise Database Management, Business Intelligence
 
-**University of Illinois Urbana-Champaign**  
-Master of Science, Major in Business Analytics (IT concentration expected)  
-_Aug. 2024 – June 2025 (expected)_  
-**Technical skills:** Python, SQL, AWS, R, Matlab, Power BI, SAS, SPSS, Stata, HTML
-
-**Shanghai University of Engineering and Technology**  
-Bachelor of Economics, Major in International Economics and Trade  
-_Sep. 2019 – June 2024_  
-**GPA:** 3.7/4.0 | **Ranking:** 1/97  
-**Awards:**  
-- 2023 Shanghai Scholarship  
-- 2023 Excellent Paper of Undergraduate Mathematical Contest in Modeling  
-- First Class Scholarship (2021 & 2023)
+**Shanghai University of Engineering and Technology** – Shanghai, China  
+*Bachelor of Economics in International Economy and Trade*  
+Sep. 2019 – June 2024  
+- Overall GPA: 3.7/4.0, Ranking: 1/97  
+- **Awards**: 2023 Shanghai Scholarship, First Class Scholarship (2021 & 2023)
 
 ---
 
-## Internships
-
-**XD Entertainment Pte Ltd.** – Shanghai, China  
-*Data Analyst Intern*  
-_Jan. 2024 – Apr. 2024_  
-- Utilized SQL to extract KPIs for the game “Sword of Convallaria” China launch, creating an analysis report that led to a tailored engagement strategy, boosting 1-month user retention by 9%.
-
-**Volvo** – Shanghai, China  
-*Retail Quality Improvement Intern*  
-_June 2023 – Nov. 2023_  
-- Built dealer development dashboard for APAC using Power BI, visualizing time trends, handling plans, and automating updates for the Volvo quality department.  
-- Employed Python to analyze 30,000 vehicle recall entries from 2020-2023, creating an Excel report from DPAC and ACCC websites.
-
-**Shanghai Abirui Information Technology Co., Ltd.** – Shanghai, China  
-*Market Analyst Intern*  
-_June 2022 – Sep. 2022_  
-- Used Python Pandas for data cleaning and reporting passenger flow data.  
-- Leveraged user profiles to push targeted ads, increasing the repurchase rate by 13%.
-
-**Maishi Coatings (Shanghai) Co., Ltd.** – Shanghai, China  
-*Data Analyst Intern*  
-_July 2021 – Sep. 2021_  
-- Extracted and analyzed data using SQL to identify vendors involved in inflated quoted prices.
+## SKILLS
+- **Programming Languages**: Python (Numpy, Pandas, Matplotlib), SQL, R (ggplot2, dplyr), Stata  
+- **Software & Tools**: AWS, Power BI, PostHog, Tableau, Databricks  
+- **Languages**: English (Fluent), Chinese (Native)
 
 ---
 
-## Selected Projects
+## WORK EXPERIENCE
+**NCSA Data Analyst**  
+*University of Illinois Urbana-Champaign*, Champaign, IL  
+Aug. 2024 – Present  
+- Developed dashboards on PostHog to track and visualize north star metrics, contributing to a 20% increase in user engagement.  
+- Conducted user behavior analysis for marketing optimization, expected to boost user base by 20%.  
 
-**Contemporary Undergraduate Mathematical Contest in Modeling**  
-*Team Leader*  
-_Sep. 2023_  
-- Preprocessed 870k rows of vegetable sales data using Python, built ARIMA model for pricing and replenishment.
+**Data Analyst Intern**  
+*XD Entertainment Pte Ltd.*, Shanghai, China  
+Jan. 2024 – Apr. 2024  
+- Extracted KPIs using SQL for “Sword of Convallaria” game launch, leading to a 9% increase in 1-month user retention.  
+- Analyzed employee engagement survey data using Python, providing insights that shaped engagement strategy.
 
-**Vital Signs Data Estimation by Electronic Signals**  
-*Team Leader*  
-_June 2023_  
-- Used Python's Pandas and NumPy for data cleaning and cluster analysis; visualized results with Matplotlib.
-
-**The 8th "Internet+" Innovation and Entrepreneurship Competition**  
-*Project Manager*  
-_May 2022 – June 2022_  
-- Designed an infrared smart study room with real-time seat vacancy information using a WeChat program.
-
-**The 12th National College Student E-commerce Innovation Challenge**  
-*Project Manager*  
-_Jan. 2022 – May 2022_  
-- Developed a WeChat program for a campus errand service platform; won second prize at the university level.
+**Retail Quality Improvement Intern**  
+*Volvo*, Shanghai, China  
+June 2023 – Nov. 2023  
+- Automated dashboard creation in Power BI for dealer development tracking in APAC, reducing reporting time by 40%.  
+- Crawled and analyzed vehicle recall news data for APAC regions, providing key insights to quality management teams.
 
 ---
 
-## Interests
+## PROJECT EXPERIENCE
+**Team Leader** – Contemporary Undergraduate Mathematical Contest in Modeling  
+Sep. 2023  
+- Processed 870k rows of daily sales data to create an ARIMA model for price and inventory optimization of selected vegetables.
 
-- **Tennis**
-- **Piano:** Live performances for charity events
-- **Guitar:** Run a Bilibili account
-- **Calligraphy**
+**Team Leader** – Vital Signs Data Estimation by Electronic Signals  
+June 2023  
+- Utilized clustering and decision tree models to classify electronic signals, improving data estimation accuracy by 15%.
 
 ---
+
+## AWARDS & HONORS
+- **2023 Shanghai Scholarship**  
+- **Excellent Paper of Undergraduate Mathematical Contest in Modeling (2023)**  
+- **First Class Scholarship** (2021, 2023)  
+- **Outstanding Student Award** (2022)
